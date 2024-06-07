@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Sir-JamesMuritu/Sir-JamesMuritu.github.io",
+  "homepage": "https://Sir-JamesMuritu.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
